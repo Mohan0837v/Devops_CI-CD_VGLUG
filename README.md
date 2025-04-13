@@ -1,4 +1,7 @@
 # Devops_CI-CD_VGLUG
+
+DEVOPS TEAM 2 "TESTING" MEMBERS
+
 Kiruthiga.T
 Musfiranaz.M
 KARTHIK E
